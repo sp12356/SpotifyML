@@ -1,6 +1,4 @@
 # SpotifyML
-Spotify Wrapped
-
 
 Description: Spotify Assistant Application that provides data analysis/visualization based on a user's listening history. It provides song recommendations as well, and a suite of other features.
 
