@@ -28,7 +28,8 @@ This application analyzes your Spotify listening history, providing insights int
 - Click "Upload" to input your Spotify listening history CSV file
 - Use "Summary" to view various analyses of your listening habits
 - Try "Recommend" for personalized song suggestions
-Screenshot 2024-08-05 at 7.22.18 PM
+<img width="391" alt="Screenshot 2024-08-05 at 7 22 18 PM" src="https://github.com/user-attachments/assets/30825241-1e6a-4931-b379-0f8433e872f9">
+
 
 ## Files Needed
 Ensure the following files are in your project directory:
