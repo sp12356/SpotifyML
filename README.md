@@ -22,7 +22,7 @@ This application analyzes your Spotify listening history, providing insights int
 
 
 ## Usage
-1. Ensure you have your Spotify listening history CSV file ready. You can request this data from Spotify.
+1. Check that you have your Spotify listening history CSV file ready. You can request this data from Spotify. Ensure this is in the same folder as this project directory.
 2. Run the application.
 3. Use the GUI to navigate through different features:
 - Click "Upload" to input your Spotify listening history CSV file
