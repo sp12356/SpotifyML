@@ -1,3 +1,2 @@
-cmu_graphics
 pandas
 Pillow
