@@ -17,8 +17,9 @@ This application analyzes your Spotify listening history, providing insights int
 - pip (Python package manager)
 
 ## Installation
-1. Clone the repository:
-2. Install the required dependencies:
+1. Clone the repository. 
+2. Install the required dependencies: pip install -r requirements.txt
+
 
 ## Usage
 1. Ensure you have your Spotify listening history CSV file ready. You can request this data from Spotify.
