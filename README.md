@@ -58,9 +58,6 @@ If you encounter any issues:
 ## Contributing
 Contributions to improve the application are welcome.
 
-## License
-[MIT License](LICENSE)
-
 ## Acknowledgements
 - Spotify for providing user data and API
 - Dataset sources:
