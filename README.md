@@ -9,7 +9,7 @@ This application analyzes your Spotify listening history, providing insights int
 - Explore your longest and least listened to songs
 - Visualize your top artists with an interactive graph
 - Get personalized song recommendations using two different algorithms:
-  - Matrix factorization (interactive)
+  - Content-based filtering (interactive)
   - Monte Carlo method (non-interactive)
 
 ## Prerequisites
