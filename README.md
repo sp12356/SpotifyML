@@ -1,7 +1,7 @@
 # Spotify ML Analyzer
 
 ## Description
-This application analyzes your Spotify listening history, providing insights into your music preferences and offering personalized song recommendations. It features a graphical user interface for easy interaction and visualization of your listening habits.
+This application analyzes your Spotify listening history using advanced data science and Machine Learning techniques, providing insights into your music preferences and offering personalized song recommendations. It features a graphical user interface for easy interaction and visualization of your listening habits.
 
 ## Features
 - Upload and analyze your Spotify listening history
