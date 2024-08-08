@@ -8,9 +8,7 @@ This application analyzes your Spotify listening history using advanced data sci
 - View your top songs, artists, and genres
 - Explore your longest and least listened to songs
 - Visualize your top artists with an interactive graph
-- Get personalized song recommendations using two different algorithms:
-  - Content-based filtering (interactive)
-  - Monte Carlo method (non-interactive)
+- Get personalized song recommendations
 
 ## Prerequisites
 - Python 3.x
